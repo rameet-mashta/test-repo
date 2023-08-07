@@ -1,1 +1,3 @@
 const firstFile = {};
+
+class A {};
